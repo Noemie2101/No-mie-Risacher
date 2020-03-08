@@ -1,0 +1,36 @@
+body { 
+	background-color: rgb(300,300,300);
+	color: rgb(30,30,30);
+	font-family: Baskerville;
+}
+
+
+h1 {  
+    color: black;
+    font-family: Baskerville
+    font-weight: 100;
+    letter-spacing: 10px;
+
+}
+a {
+	font-family: 'Baskerville', sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600.
+	font-size: 16px;
+  }
+	
+a:hover { 
+	color: black;
+}
+
+
+
+
+div { 
+	background: white
+	border: 2px solid black;
+    margin: 10px
+   
+}
+
